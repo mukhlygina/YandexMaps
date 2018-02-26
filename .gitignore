@@ -25,3 +25,7 @@ hs_err_pid*
 
 .idea/
 YandexMaps.iml
+target/classes/schemes/
+target/generated-sources/
+target/generated-test-sources/
+target/maven-status/
